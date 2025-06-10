@@ -1,0 +1,6 @@
+path: C:/Users/maris/OneDrive/Desktop/Mask Detector
+train: images/train
+val: images/val
+
+names:
+    0: Mask
