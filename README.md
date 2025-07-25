@@ -1,5 +1,4 @@
-# Theft-Analysis-Using-AI-and-Computer-Vision
-Here is a 500-word instructional guide written in **GitHub README.md** format for **Theft Analysis Using AI and Computer Vision with YOLO**:
+
 
 ---
 
@@ -22,7 +21,7 @@ theft-detection-ai/
 │   │   ├── train/
 │   │   ├── val/
 │   │   └── test/
-│   └── data.yaml
+│   └── conf.yaml
 ├── yolov8_custom_training.ipynb
 ├── detect.py
 ├── README.md
